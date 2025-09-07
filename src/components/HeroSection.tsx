@@ -28,9 +28,9 @@ const HeroSection = () => {
           <p className="font-medium text-xl md:text-2xl text-beach-blue mb-2">
             South Bay Orofacial Myofunctional Therapy
           </p>
-          <h1 className="font-beautifully-delicious text-4xl md:text-5xl lg:text-6xl font-semibold leading-tight mb-10" style={{ color: '#967E72' }}>
-            Change your Habits,<br />
-            <span className="inline-block ml-16 md:ml-40 mt-6 whitespace-nowrap">Change your Life</span>
+          <h1 className="font-bdsans text-4xl md:text-5xl lg:text-6xl font-semibold leading-tight mb-10 whitespace-nowrap" style={{ color: '#967E72' }}>
+            Change your Habits<br />
+            <span className="inline-block ml-16 md:ml-40 mt-6">Change your Life</span>
           </h1>
           <p className="text-lg md:text-xl mb-8 text-beach-text/90 max-w-lg">
             Treating the root cause of dysfunction to reclaim your face growth, sleep, and confidence
